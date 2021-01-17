@@ -1,0 +1,49 @@
+Dry Contact With Arduino
+    https://forum.allaboutcircuits.com/threads/dry-contact-with-arduino.144917/
+    https://forum.arduino.cc/index.php?topic=690508.0
+    https://falcon-player.gitbooks.io/falcon-player-manual/content/chapter_five_inputoutput_setup/gpio_inputs.html
+
+
+Falcon Manual Stuff
+    https://falcon-player.gitbooks.io/falcon-player-manual/content/chapter_five_inputoutput_setup/gpio_inputs.html
+
+
+Capacitive Touch RaspberryPi
+
+
+ESP8266 Capacitive Touch
+    https://github.com/esphome/feature-requests/issues/92
+->  https://forum.arduino.cc/index.php?topic=462160.0
+
+
+ESP8266 PINOUT
+    https://mechatronicsblog.com/esp8266-nodemcu-pinout-for-arduino-ide/
+    https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+
+ESP8266 TROUBLESHOOTING
+    https://arduino-esp8266.readthedocs.io/en/latest/faq/a02-my-esp-crashes.html    
+
+
+Beginners Guide to Wiring Things to the GPIO - and General Wiring for GPIO Closures
+    https://www.raspberrypi.org/forums/viewtopic.php?f=44&t=216304
+    https://raspberrypi.stackexchange.com/questions/100831/what-pins-to-close-a-circuit/100859
+    https://www.instructables.com/Simple-Raspberry-Pi-Shutdown-Button/
+
+RaspberryPi Vs Arduino GPIO and Communicating between them.
+    https://roboticsbackend.com/raspberry-pi-3-pins/
+    https://forum.arduino.cc/index.php?topic=518600.0
+
+
+How Capacitive Sensing Works
+    https://www.allaboutcircuits.com/technical-articles/circuits-and-techniques-for-implementing-capacitive-touch-sensing/
+    https://www.electronicdesign.com/technologies/analog/article/21796004/use-analog-techniques-to-measure-capacitance-in-capacitive-sensors
+->  https://www.ti.com/lit/an/snoa927/snoa927.pdf?ts=1610258794393
+
+Neat Stuff On Tindie
+    https://www.tindie.com/products/kdcircuits/trigboard-ultra-low-power-esp32-iot-platform/
+    https://www.tindie.com/products/RGilham/esp8266-multi-purpose-controller/
+    https://www.tindie.com/products/RGilham/esp8266-3-channel-solid-state-wifi-switch/
+    https://www.tindie.com/products/ramonlh/conuco-plus-v2-universal-wifi-controller/
+    https://www.tindie.com/products/f8dceb56/esp8266-prototyping-board-with-full-auto-reset/
+    https://www.tindie.com/products/megad-2561/relay-hongfa-hf115f-i012-1z3a/
+    
