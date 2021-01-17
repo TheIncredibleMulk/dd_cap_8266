@@ -2,6 +2,26 @@ Dry Contact With Arduino
     https://forum.allaboutcircuits.com/threads/dry-contact-with-arduino.144917/
     https://forum.arduino.cc/index.php?topic=690508.0
     https://falcon-player.gitbooks.io/falcon-player-manual/content/chapter_five_inputoutput_setup/gpio_inputs.html
+    http://www.w9xt.com/page_microdesign_pt6_switch_inputs.html
+    https://www.seeedstudio.com/Grove-Relay.html
+->  http://wap.sciencenet.cn/blog-578676-1176621.html?mobile=1
+->  https://www.instructables.com/Driving-a-Relay-With-an-Arduino/
+->  https://www.youtube.com/watch?v=k-CMGLhFDFI
+->  http://www.techydiy.org/opto-isolated-dual-relay-module-arduino/   <-
+
+
+
+    Opto Couplers Vs Relays with Arduino
+        https://www.google.com/search?q=pc817+circuit&tbm=isch&hl=en&client=ubuntu&hs=L5l&sa=X&ved=2ahUKEwiw-LH1wqLuAhUGcDABHbs_DEQQrNwCKAB6BAgBEH0&biw=1836&bih=979#imgrc=b1RpKdjVI_b8XM
+        https://www.electronics-tutorials.ws/blog/optocoupler.html
+        https://www.openhardware.io/view/77/AC-DC-double-solid-state-relay-module
+        https://www.seeedstudio.com/blog/2019/02/14/new-guide-how-to-choose-the-suitable-relay-compatible-with-arduino-rasberry-pi/
+        https://microcontrollerslab.com/pc817-optocoupler-pinout-working-examples-datasheet/
+    ->  https://www.bristolwatch.com/ele2/mosfet_relay.htm
+    ->  https://www.openhardware.io/view/769/12V-1-Channel-Relay-Module-With-Optocoupler-Isolation
+    ->  https://www.youtube.com/watch?v=2BdevOmN-Zk
+
+
 
 
 Falcon Manual Stuff
@@ -10,6 +30,12 @@ Falcon Manual Stuff
 
 Capacitive Touch RaspberryPi
 
+Capacitive Arduino
+    https://github.com/PaulStoffregen/CapacitiveSensor
+    https://playground.arduino.cc/Main/CapacitiveSensor/
+    https://www.instructables.com/Capacitive-Sensing-for-Dummies/
+    https://www.instructables.com/How-To-Use-Touch-Sensors-With-Arduino/
+    https://www.hackster.io/Arnov_Sharma_makes/capacitive-touch-arduino-without-using-ttp223-sensor-c8e197
 
 ESP8266 Capacitive Touch
     https://github.com/esphome/feature-requests/issues/92
